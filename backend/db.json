@@ -7,7 +7,7 @@
     },
     {
       "email": "admin@example.com",
-      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "password": "password",
       "id": 2
     }
   ],
